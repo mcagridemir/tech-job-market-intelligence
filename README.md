@@ -10,8 +10,6 @@
 Analyse the global tech job market with a focus on Germany, predict salaries using ML,
 extract skill demands with NLP, and visualise everything in an interactive web app.
 
-Designed to impress professors at TU Munich, RWTH Aachen, KIT, TU Berlin, and others.
-
 ---
 
 ## 🧠 ML Techniques Used
