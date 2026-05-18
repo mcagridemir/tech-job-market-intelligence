@@ -1,0 +1,9 @@
+jobs_in_data.csv
+jobs_cleaned.csv
+jobs_nlp.csv
+jobs_final.csv
+salary_model.pkl
+label_encoders.pkl
+__pycache__/
+*.pyc
+.DS_Store
