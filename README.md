@@ -82,13 +82,14 @@ streamlit run app.py
 
 ---
 
-## 🇩🇪 Why This Project Fits Germany
+## 🇩🇪 Germany & EU Relevance
 
-- **SHAP Explainability**: Germany/EU's GDPR Article 22 requires explainable automated decisions.
-  Showing XAI knowledge is a direct signal of regulatory awareness.
-- **Bilingual insights**: App includes practical Germany-specific career tips
-- **Relevant domain**: Data jobs market = directly applicable to your own career search
-- **Story**: Project motivation = your own goal → genuine, memorable for professors
+This project is particularly relevant in the German and EU tech landscape:
+
+- **Explainable AI (XAI):** GDPR Article 22 requires transparent automated decisions — 
+  this project implements SHAP to explain every salary prediction
+- **German job market focus:** Dedicated analysis of Germany-based companies and roles
+- **EU AI Act alignment:** Demonstrates awareness of responsible and auditable ML practices
 
 ---
 
