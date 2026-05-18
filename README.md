@@ -111,3 +111,20 @@ streamlit run app.py
 ---
 
 *Made with ❤️ | Dataset: Jobs in Data (Kaggle) | Stack: Python · sklearn · SHAP · Streamlit*
+
+## 📊 Sample Output
+
+### Market Overview
+![EDA Overview](images/eda_overview.png)
+
+### Germany Deep Dive
+![Germany](images/eda_germany.png)
+
+### NLP Skill Analysis
+![NLP](images/nlp_analysis.png)
+
+### Salary Model + SHAP
+![Model](images/salary_model.png)
+
+### Job Clustering
+![Clustering](images/clustering.png)
